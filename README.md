@@ -1,6 +1,6 @@
 # [Restaurant Reservation Fullstack Web App]()
 
-> Full-Stack Restaurant Reservation Web App built from the ground up by Tom Sparto in Node and React. This app is to be used by restaurant staff to create and handle restaurant reservations.
+> Full-Stack Restaurant Reservation Web App built from the ground up by Rachel Sparto in Node and React. This app is to be used by restaurant staff to create and handle restaurant reservations.
 
 ### Table of Contents
 
@@ -40,13 +40,13 @@
 > The user can traverse forward and backward one date at a time, as well as instantly travel to today's date.
 >
 > From here, the user can seat a booked reservation, edit a booked reservation, cancel a booked reservation, or finish an occupied table.
-> 
+>
 > Clicking on the Finish button displays a confirmation window.
 >
 > If the user confirms the action, the corresponding reservation's status is set to `finished` and the table is made free.
 >
 > If the confirmation window is cancelled, the button does nothing.
-> 
+>
 > NOTE: Reservations that have been finished or cancelled will not show up on the dashboard.
 
 ## Seat Table with a reservation `/reservations/6/seat`
