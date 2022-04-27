@@ -1,4 +1,4 @@
-# [Restaurant Reservation Fullstack Web App]()
+# [Restaurant Reservation Fullstack Web App](https://rs-reservation-client.herokuapp.com/dashboard)
 
 > Full-Stack Restaurant Reservation Web App built from the ground up by Rachel Sparto in Node and React. This app is to be used by restaurant staff to create and handle restaurant reservations.
 
@@ -13,9 +13,9 @@
 
 # Live Deployment Links
 
-- ### [React App Client-Side Deployment]()
+- ### [React App Client-Side Deployment](https://rs-reservation-client.herokuapp.com/dashboard)
 
-- ### [Express API Back-End Deployment]()
+- ### [Express API Back-End Deployment](https://rs-reservation-backend.herokuapp.com/)
 
 # General Usage and Screenshots
 
