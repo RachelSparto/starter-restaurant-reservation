@@ -19,7 +19,7 @@ function Search() {
   };
 
   return (
-    <>
+    <div>
       <h1 className="my-3">Search</h1>
       <form>
         <div className="form-group">
@@ -110,7 +110,7 @@ function Search() {
       ) : (
         <h1>No reservations found</h1>
       )}
-    </>
+    </div>
   );
 }
 

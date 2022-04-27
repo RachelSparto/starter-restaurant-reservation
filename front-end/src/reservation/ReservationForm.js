@@ -70,7 +70,7 @@ function ReservationForm({ reservation }) {
   }
 
   return (
-    <>
+    <div>
       <form>
         <div className="form-group">
           <label htmlFor="first_name">
@@ -188,7 +188,7 @@ function ReservationForm({ reservation }) {
           Cancel
         </button>
       </div>
-    </>
+    </div>
   );
 }
 

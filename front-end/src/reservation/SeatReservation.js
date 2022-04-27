@@ -54,7 +54,7 @@ function SeatReservation({ date }) {
   };
 
   return (
-    <>
+    <div>
       <h1 className="d-flex justify-content-center mt-3">Select a table</h1>
       <h3 className="d-flex justify-content-center">
         {first_name} {last_name} party of {people}
@@ -104,7 +104,7 @@ function SeatReservation({ date }) {
           Cancel
         </button>
       </div>
-    </>
+    </div>
   );
 }
 
