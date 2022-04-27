@@ -24,12 +24,12 @@ function UpdateReservation() {
 
   console.log(reservation);
   return (
-    <>
+    <div>
       <h1 className="my-3">Update Existing reservation</h1>
       <ErrorAlert error={readError} />
       <hr></hr>
       <ReservationForm reservation={reservation} />
-    </>
+    </div>
   );
 }
 
